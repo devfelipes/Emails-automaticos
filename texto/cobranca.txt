@@ -1,0 +1,15 @@
+Prezado Cliente, {nome}
+
+    Passando para lembrar do boleto no valor R${valor} e vencimento {prazo}!
+    Gostaríamos de verificar se há algum problema que necessite de auxílio de nossa equipe. 
+
+    Em caso de dúvidas, é só entrar em contato com nosso time atráves do e-mail
+
+
+    Att,
+    FELIPE MENSAGEM AUTOMATICA
+
+
+
+
+
